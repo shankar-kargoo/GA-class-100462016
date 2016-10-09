@@ -1,0 +1,97 @@
+body{
+  background-color: #3B3A34;
+  color: #FFFFFF;
+}
+
+.container {
+  width: 600px;
+  border: #CCCCCC 3px solid;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  padding: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.italic-text {
+  font-style: italic;
+}
+
+.nav li {
+  list-style: none;
+  display: inline;
+}
+
+.nav {
+  padding: 0;
+}
+
+a {
+  color: #57B565;
+}
+
+.divider{
+  border-top: #CCCCCC 3px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+img {
+  padding: 3px;
+  border: 1px #CCCCCC solid;
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
+
+.resume-heading {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.resume-subheading {
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+  color: #b3ccca;
+}
+
+
+.exp li, .edu li {
+  list-style-type:square;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+
+.exp-title, .edu-title {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline;
+  }
+
+.exp-employer {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  display: inline;
+  }
+
+.exp-time {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  display: inline;
+  color: #b3ccca;
+  }
+
+.edu-time {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  display: inline;
+  }
